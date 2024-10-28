@@ -35,8 +35,7 @@
    
 서버가 실행되면 다음과 같은 메시지가 표시됩니다:
 
-   ```bash
-   [DEBUG] Server is running and waiting for clients...
+[DEBUG] Server is running and waiting for clients...
 
 서버는 클라이언트가 보낸 파일 읽기/쓰기 요청을 대기하며, 각각의 요청을 자식 프로세스를 통해 처리합니다.
 
