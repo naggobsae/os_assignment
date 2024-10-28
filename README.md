@@ -19,6 +19,7 @@
    ```bash
    gcc server.c -o server
 2. **클라이언트 컴파일**
+    ```bash
    gcc client.c -o client
 
 컴파일이 완료되면 server와 client라는 실행 파일이 생성됩니다.
